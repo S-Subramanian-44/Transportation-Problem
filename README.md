@@ -1,16 +1,20 @@
 # Transportation-problem
-Transportation Problem in operational research with efficiency and precision. By implementing cutting-edge algorithms and user-friendly interfaces, we've developed a tool that optimizes the allocation of resources and minimizes transportation costs. Simplify your supply chain management and boost your operational efficiency with our solution. 
-Tools Used:
+Struggling with complex transportation problems and inefficient supply chains? Look no further! Our innovative tool leverages cutting-edge algorithms and a user-friendly interface to revolutionize your logistics management.
 
-Python: We leveraged the power of Python for its versatility, extensive libraries, and ease of implementation.
+## Features:
 
-Tkinter: Tkinter was utilized for creating a user-friendly graphical interface to input data and visualize results.
+- Efficiently solves the transportation problem, optimizing the allocation of resources and minimizing transportation costs.
+- Leverages cutting-edge algorithms for fast and accurate solutions.
+- User-friendly interface simplifies data input and visualization of results.
+- Supports the classic transportation problem with multiple suppliers and consumers.
 
-Types of Problem:
+## Technology Used:
 
-Transportation Problem: This classic operational research problem involves optimizing the distribution of goods from multiple suppliers to multiple consumers while minimizing transportation costs. Our project effectively addresses and solves this logistical challenge.
+- Python
+- Tkinter
 
-Three Types of Approaches are done:
-1. Least Cell Method
-2. North-west Method
-3. VAM method
+## Supported Approaches:
+
+- Least Cell Method: Identifies the lowest-cost cell and prioritizes shipments accordingly.
+- North-West Corner Method: Starts by filling cells from the northwest corner, prioritizing earlier rows and columns.
+- Vogel's Approximation Method: Utilizes penalty costs to identify the most cost-effective cell for shipment.
